@@ -1,2 +1,2 @@
 # LeetCode
-collecting some personal complements of LeetCode problems
+collecting some personal implements of LeetCode problems
